@@ -1,0 +1,19 @@
+﻿  demo1.cpp
+  demo2.cpp
+  demo3.cpp
+  demo4.cpp
+  demo5.cpp
+  demo6.cpp
+  demo7.cpp
+  lab1.cpp
+  lab2.cpp
+  lab3.cpp
+  lab4.cpp
+  lab5.cpp
+  lab6.cpp
+  lab7.cpp
+C:\Users\Ilya\Desktop\Git\src\git\git\lab7.cpp(10,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ilya\Desktop\Git\src\git\git\lab7.cpp(19,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  git.vcxproj -> C:\Users\Ilya\Desktop\Git\src\git\x64\Debug\git.exe
